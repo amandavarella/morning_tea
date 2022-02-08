@@ -21,8 +21,9 @@
 |          | 22                                | Bob & Barbara   |
 |          | 29                                | Vinnie & Amanda |
 |          |                                   |                 |
-| June     | 5                                 | Bruce & Karen   |
+| June     | 5                                 | Bob & Barbara   
 |          | 12 (queen's birthday on the 13th) | No morning tea  |
 |          | 19                                | Simon & Merryn  |
-|          | 26                                | Bob & Barbara   |
+|          | 26                                | Bruce & Karen   |
 |          | 31                                | Vinnie & Amanda |
+ 
