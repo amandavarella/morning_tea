@@ -25,5 +25,4 @@
 |          | 12 (queen's birthday on the 13th) | No morning tea  |
 |          | 19                                | Simon & Merryn  |
 |          | 26                                | Bruce & Karen   |
-|          | 31                                | Vinnie & Amanda |
  
