@@ -3,7 +3,7 @@
 |          |                                   |                 |
 | February | 13                                | Vinnie & Amanda |
 |          | 20                                | Bruce & Karen   |
-|          | 27                                | Simon & Merryn  |
+|          | 27 (church meeting)               | No morning tea  |
 |          |                                   |                 |
 | March    | 6                                 | Bob & Barbara   |
 |          | 13 (Holiday on 14 labour day)     | No morning tea  |
