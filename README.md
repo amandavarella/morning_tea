@@ -5,13 +5,13 @@
 |          | 20                                | Bruce & Karen   |
 |          | 27 (church meeting)               | No morning tea  |
 |          |                                   |                 |
-| March    | 6                                 | Bob & Barbara   |
+| March    | 6                                 | Simon & Merryn  |
 |          | 13 (Holiday on 14 labour day)     | No morning tea  |
 |          | 20                                | Vinnie & Amanda |
-|          | 27                                | Bruce & Karen   |
+|          | 27                                | Bob & Barbara   |
 |          |                                   |                 |
 | April    | 3                                 | Simon & Merryn  |
-|          | 10                                | Bob & Barbara   |
+|          | 10                                | Bruce & Karen   |
 |          | 17 (Easter)                       | No morning tea  |
 |          | 24 (Anzac day on the 25th)        | No morning tea  |
 |          |                                   |                 |
