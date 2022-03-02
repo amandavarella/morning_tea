@@ -11,15 +11,15 @@
 |          | 27                                | Bob & Barbara   |
 |          |                                   |                 |
 | April    | 3                                 | Simon & Merryn  |
-|          | 10                                | Bruce & Karen   |
+|          | 10                                | Vinnie & Amanda |
 |          | 17 (Easter)                       | No morning tea  |
 |          | 24 (Anzac day on the 25th)        | No morning tea  |
 |          |                                   |                 |
-| May      | 1                                 | Vinnie & Amanda |
-|          | 8                                 | Bruce & Karen   |
+| May      | 1                                 | Bruce & Karen   |
+|          | 8                                 | Vinnie & Amanda |
 |          | 15                                | Simon & Merryn  |
 |          | 22                                | Bob & Barbara   |
-|          | 29                                | Vinnie & Amanda |
+|          | 29                                | Bruce & Karen   |
 |          |                                   |                 |
 | June     | 5                                 | Bob & Barbara   
 |          | 12 (queen's birthday on the 13th) | No morning tea  |
