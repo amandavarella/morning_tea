@@ -10,8 +10,9 @@
 |          | 20                                | Vinnie & Amanda |
 |          | 27                                | Bob & Barbara   |
 |          |                                   |                 |
-| April    | 3                                 | Simon & Merryn  |
-|          | 10                                | Vinnie & Amanda |
+|          |                                   |                 |
+| April    | 3                                 | Vinnie & Amanda |
+|          | 10                                | Simon & Merryn  |
 |          | 17 (Easter)                       | No morning tea  |
 |          | 24 (Anzac day on the 25th)        | No morning tea  |
 |          |                                   |                 |
