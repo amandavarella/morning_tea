@@ -16,7 +16,7 @@
 |          | 17 (Easter)                       | No morning tea  |
 |          | 24 (Anzac day on the 25th)        | No morning tea  |
 |          |                                   |                 |
-| May      | 1                                 | Bruce & Karen   |
+| May      | 1                                 | Vinnie & Amanda |
 |          | 8                                 | Vinnie & Amanda |
 |          | 15                                | Simon & Merryn  |
 |          | 22                                | Bob & Barbara   |
