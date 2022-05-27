@@ -3,7 +3,7 @@
 |          |                                   |                 |
 | February | 13                                | Vinnie & Amanda |
 |          | 20                                | Bruce & Karen   |
-|          | 27 (church meeting)               | No morning tea  |
+|          | 27 (Church meeting)               | No morning tea  |
 |          |                                   |                 |
 | March    | 6                                 | Simon & Merryn  |
 |          | 13 (Holiday on 14 labour day)     | No morning tea  |
@@ -20,11 +20,11 @@
 |          | 8                                 | Vinnie & Amanda |
 |          | 15                                | Simon & Merryn  |
 |          | 22                                | Bob & Barbara   |
-|          | 29                                | Bruce & Karen   |
+|          | 29 (Church meeting)               | No morning tea  | 
 |          |                                   |                 |
 | June     | 5                                 | Bob & Barbara   
 |          | 12 (queen's birthday on the 13th) | No morning tea  |
 |          | 19                                | Simon & Merryn  |
-|          | 26                                | Bruce & Karen   |
+|          | 26                                | Amanda & Vinnie |
  
 Published in: https://amandavarella.github.io/morning_tea/
