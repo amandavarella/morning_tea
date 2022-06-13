@@ -22,9 +22,9 @@
 |          | 22                                | Bob & Barbara   |
 |          | 29 (Church meeting)               | No morning tea  | 
 |          |                                   |                 |
-| June     | 5                                 | Bob & Barbara   
+| June     | 5                                 | Simon & Merryn  |   
 |          | 12 (queen's birthday on the 13th) | No morning tea  |
-|          | 19                                | Simon & Merryn  |
+|          | 19                                | Bob & Barbara   |
 |          | 26                                | Amanda & Vinnie |
  
 Published in: https://amandavarella.github.io/morning_tea/
